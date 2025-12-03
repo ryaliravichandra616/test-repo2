@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "new version/release" );
+        System.out.println( "new version/release for polling " );
     }
 }
+
